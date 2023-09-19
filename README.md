@@ -1,5 +1,4 @@
-## Hi there 👋, I am Abel Kidane Haile and I am a computer engineering student. 
-
+## Hi there 👋
 <!--
 **AbelKidane-abita/AbelKidane-abita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
