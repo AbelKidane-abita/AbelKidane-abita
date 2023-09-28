@@ -1,5 +1,14 @@
 # [Abel Kidane Haile](https://github.com/AbelKidaneHaile)
 
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=AbelKidaneHaile&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AbelKidaneHaile&hide_border=true" />
+ 
+</p>
+
+
+
+
 ## About me
 Hi there 👋! I am Abel, a computer engineering student at Khalifa University, Abu Dhabi. 
 
