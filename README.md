@@ -10,7 +10,7 @@
 
 
 ## About me
-Hi there 👋! I am Abel, a computer engineering student at Khalifa University, Abu Dhabi. 
+Hi there 👋! I am Abel, a computer engineering graduate from Khalifa University, Abu Dhabi. 
 
 I am interested in AI, ML, deep learning, software development, data analytics, and data science. I mainly focus on CV and NLP.
 <div>
